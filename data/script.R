@@ -18,7 +18,7 @@ Sys.setenv(
 )
 
 #Import your dataset
-#In this case I'm importing part of the program of this year dataharvest because I didn't want to waste time creating a dataset
+#In this case I'm importing part of the program of this year dataharvest.
 #You can actually do this with any kind of dataset, but it needs to be in text format
 
 data <- read_sheet("https://docs.google.com/spreadsheets/d/1cLYdghJ-uNxPOXfDiwU2Bb3inzBfQrHNbENM4CZCAI8/edit?usp=sharing")
@@ -28,11 +28,15 @@ data <- read_sheet("https://docs.google.com/spreadsheets/d/1cLYdghJ-uNxPOXfDiwU2
 #In this case we are going to build a piece of text that combines: date + time + title + description + speakers
 
 df <- data %>% 
-  mutate(text = glue("{date}{time}' - {session_title}' - {speakers}. - {description}")) %>% 
+  mutate(text = glue("Start: {start}
+                     End: {end}
+                     Session title: {session_title}
+                     Kind of event: {event_type}
+                     Speaker(s): {speakers}
+                     Description of the session: {description}
+                     Venue: {venue}")) %>% 
   select(text)
 
-#clean the text to not have the line breaks
-df$text <- gsub("\n", " ", df$text)
 
 #add an unique id to each row
 df$id <- 1:nrow(df)
