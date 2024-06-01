@@ -27,6 +27,7 @@
 	"dependencies": {
 		"@supabase/supabase-js": "^2.43.4",
 		"ai": "^3.1.22",
+		"marked": "^12.0.2",
 		"openai": "^4.47.3"
 	}
 }

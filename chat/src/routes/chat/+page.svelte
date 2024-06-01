@@ -1,11 +1,10 @@
 <script>
 	import { useChat } from 'ai/svelte';
+	import MarkdownRenderer from '$lib/MarkdownRenderer.svelte';
 
 	const { input, handleSubmit, messages } = useChat({
 		api: 'chat/api'
 	});
-
-	$: console.log($messages);
 </script>
 
 <div class="grid md:grid-cols-[300px_1fr] min-h-screen w-full">
@@ -75,7 +74,7 @@
 		<div class="max-w-2xl flex-1 mx-auto flex flex-col items-start gap-8 px-4 w-full">
 			<div class="flex items-start gap-4">
 				<div class="grid gap-1">
-					<div class="font-bold">assistant</div>
+					<div class="font-bold">Maneblusser</div>
 					<div class="prose prose-stone">
 						<p>
 							Hello! I'm Maneblusser, the AI assistant for Dataharvest 2024 schedule. How can I help
@@ -83,11 +82,11 @@
 						</p>
 					</div>
 					{#each $messages as message}
-						<div class="font-bold">{message.role}</div>
+						<div class="font-bold">
+							{message.sender === 'user' ? 'You' : 'Maneblusser'}
+						</div>
 						<div class="prose prose-stone">
-							<p>
-								{message.content}
-							</p>
+							<MarkdownRenderer content={message.content} />
 						</div>
 					{/each}
 				</div>
