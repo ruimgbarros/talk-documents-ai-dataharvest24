@@ -7,6 +7,10 @@ On this repo you will have three folders:
  - `data` - that contains the data and the R script to put it on a database
  - `chat` - that contains a simple chat interface built with svelte to allow you to speak with your documents.
 
+## Links
+[Demo site](https://talk-documents-ai-dataharvest24.vercel.app/)
+[Slides](https://docs.google.com/presentation/d/1)
+
 
 ## 🚧 Things you should be aware of
 

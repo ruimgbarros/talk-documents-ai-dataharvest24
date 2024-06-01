@@ -38,11 +38,6 @@ df$text <- gsub("\n", " ", df$text)
 df$id <- 1:nrow(df)
 
 
-
-#clean empty rows
-df <- df %>% 
-  filter(text != "")
-
 #remove the id column and create a new one
 df <- df %>% 
   select(-id) %>% 
