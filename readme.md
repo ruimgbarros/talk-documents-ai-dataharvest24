@@ -9,7 +9,7 @@ On this repo you will have three folders:
 
 ## Links
 [Demo site](https://talk-documents-ai-dataharvest24.vercel.app/)
-[Slides](https://docs.google.com/presentation/d/1)
+[Slides](https://slides-dataharvest2024-guqaromji-publico-data.vercel.app/)
 
 
 ## 🚧 Things you should be aware of
