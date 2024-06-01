@@ -49,7 +49,7 @@
 						<path d="M9 13v2" />
 					</svg>
 				</div>
-				<div class="grow text-ellipsis overflow-hidden whitespace-nowrap text-sm">AI helper</div>
+				<div class="grow text-ellipsis overflow-hidden whitespace-nowrap text-sm">Dataharvest Helper</div>
 			</button>
 		</div>
 		<div class="overflow-auto flex-1">

@@ -36,7 +36,9 @@
 							<path d="M9 13v2" />
 						</svg>
 					</div>
-					<div class="grow text-ellipsis overflow-hidden whitespace-nowrap text-sm">AI helper</div>
+					<div class="grow text-ellipsis overflow-hidden whitespace-nowrap text-sm">
+						Dataharvest Helper
+					</div>
 				</button>
 			</a>
 		</div>
@@ -73,6 +75,13 @@
 		<div class="max-w-2xl flex-1 mx-auto flex flex-col items-start gap-8 px-4 w-full">
 			<div class="flex items-start gap-4">
 				<div class="grid gap-1">
+					<div class="font-bold">assistant</div>
+					<div class="prose prose-stone">
+						<p>
+							Hello! I'm Maneblusser, the AI assistant for Dataharvest 2024 schedule. How can I help
+							you today?
+						</p>
+					</div>
 					{#each $messages as message}
 						<div class="font-bold">{message.role}</div>
 						<div class="prose prose-stone">
