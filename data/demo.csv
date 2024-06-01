@@ -1,0 +1,93 @@
+text,embedding
+On MAY 31 • FRIDAY at 9:00am – 10:00am we will have the talk 'Check-in and Coffee' with the speakers NA. The description of the talk is: NA,
+"On MAY 31 • FRIDAY at 10:00am – 10:15am we will have the talk 'Opening of the conference' with the speakers NA. The description of the talk is: The opening will take place in the Aula Z 1/13 (Auditorium Hanswijk, 1st floor) and will be streamed to Aula
+Donche (on the first floor).",
+On MAY 31 • FRIDAY at 10:30am – 11:15am we will have the talk 'Networking welcome' with the speakers NA. The description of the talk is: NA,
+"On MAY 31 • FRIDAY at 11:15am – 12:00pm we will have the talk 'Keynote debate: Is AI a blessing or a curse for journalism?' with the speakers Speakers: Rune Ytreberg, Nicolas Kayser-Bril, Carmen Aguilar Garcia, Jonathan Stoneman. The description of the talk is: A new format for what was previously the keynote speech - a keynote debate. This will be an interactive session,
+with opportunities to vote, and to put your views during the session. Each of our three speakers comes with a
+different point of view: Rune will look at how AI can empower data journalism; Carmen will talk about the beauty
+of AI when checking is faster than doing) , while Nicolas takes a high-level view - that AI comes with a
+reactionary ideology, where past events inform future choices. Where do you stand? Come and join the debate!
+*The opening will take place in the Aula Z 1/13 (Auditorium Hanswijk, 1st floor) and will be streamed to Aula
+Donche (on the first floor).",
+On MAY 31 • FRIDAY at 12:00pm – 1:00pm we will have the talk 'Lunch' with the speakers NA. The description of the talk is: NA,
+"On MAY 31 • FRIDAY at 1:15pm – 1:15pm we will have the talk 'How to verify leak data - A checklist approach' with the speakers Speakers: Ben Heubl. The description of the talk is: As a modern journalist or researcher, you may get your hands on leaked data or documents, possibly from a
+person or a company that might reveal a crime or dodgy schemes. Süddeutsche Zeitung opened a new era a
+few years ago when it worked on The Panama Papers. Since then, we learned a lot. Ben Heubl, an investigative
+journalist at SZ will share with you his insights on how journalists can be sure it's the real deal? A leaked data
+verification checklist for investigators",
+"On MAY 31 • FRIDAY at 1:15pm – 2:15pm we will have the talk 'Learn programming: Python basics' with the speakers Speakers: Luc Martinon, Alina Yanchur. The description of the talk is: In this session, you will learn the basic concepts of the Python programming language. Participants will find out
+how to obtain and analyse data. To attend this session, no prior knowledge is required, but if bringing your own
+laptop, please install Python and Anaconda first.",
+"On MAY 31 • FRIDAY at 1:15pm – 2:30pm we will have the talk 'Exploring AI: Investigating datasets to better understand AI' with the speakers Speakers: Christo Buschek. The description of the talk is: LAION-5B is a dataset with 5.8 billion image and text pairs—too large to make sense of. It is an open-source
+foundation dataset that trains AI models such as Stable Diffusion. In collaboration with the Knowing Machines
+Project at New York University, Der SPIEGEL and Paper Trail Media investigated this dataset, which is meant to
+give machines a comprehensive representation of the world to build a vocabulary of things and concepts.
+In this talk, Christo Buschek traces the construction of the dataset to better understand its contents, implications,
+and entanglements. He will show the curatorial mechanisms chosen to construct the dataset and how those
+mechanisms propagate biases of other machine learning models and datasets and structural biases of the AI
+field itself.
+Investments in AI systems are in the trillions, and those systems are deployed at a neck-break speed. To be able
+to investigate the datasets behind them is an essential tool for journalists to holistically interrogate AI systems—
+the data, the models, and the emerging effects of AI.",
+"On MAY 31 • FRIDAY at 1:15pm – 2:30pm we will have the talk 'Media freedom at risk: Can the EU protect us?' with the speakers Speakers: Staffan Dahllöf, Harald Schumann, Lucie Sykorova, Maciej Styczen. The description of the talk is: In many EU countries the freedom of the media is under threat. Governments turn public TV, radio and news
+agencies into their propaganda instruments. Investors buy media companies in order to spread the narratives of
+the extreme right. Security authorities abuse their power to spy on journalists and reveal their sources.
+To counter this threat, the EU commission has launched the European Media Freedom Act (EMFA), which has
+recently been adopted after a long power struggle in the Council and the European Parliament.
+But does the law actually give us the instruments needed to defend media freedom against the growing threat?
+Can it be used to stop the assaults of the Italian, Greek or Slovakian governments against the plurality in the
+public media?
+Does it limit the right of investors to force the media workers to promote the ideology of the owner?
+Does it actually protect us and our sources against the surveillance of the security agencies?
+Are there risks with a EU-wide media law bypassing or superseding national legislation?",
+"On MAY 31 • FRIDAY at 1:15pm – 2:30pm we will have the talk 'Who funds Europe's political parties? We have the data' with the speakers Speakers: Jesse Pinster, Adriana Homolova. The description of the talk is: Who is funding political parties? What influence do they get in return? Follow the Money has built the first-ever
+database - along with a user-friendly dashboard - containing all the available data on donations to the political
+parties of the EU-27 from 2019-23. The database also includes other sources of income for political parties
+(mainly state aid), allowing comparison of the ratio between public and private funding across countries. We
+hope this new database will give you an unique insight into political funders and their intent. A group of
+investigative journalists is now diving into the data. Join us for the session, and find out how you can also find
+stories in the data!",
+"On MAY 31 • FRIDAY at 1:15pm – 2:30pm we will have the talk 'Ah Mapbox, here we go again! How to make Mapbox work with large datasets' with the speakers Speakers: Ana Ruiz, Krisztián Szabó. The description of the talk is: If you have ever seen a huge Mapbox map but don't know how it was made, this session will solve the mystery.
+You will learn how to upload big files to Mapbox, by optimizing the files, using geoJSONs and avoiding uploading
+files through Mapbox Studio.
+We will be using the command line to convert geospatial files to geoJSON, dropping and changing all those little
+bits of data that make vectors heavier and heavier. We will use a couple of Mapbox own libraries (also in the
+command line) to add the final details and to upload the information to their servers.
+After attending this session, participants will be able to understand how Mapbox works and how to upload bigger
+files to it. Previous experience with Mapbox is recommended. You should be comfortable using the command
+line. If you are bringing your own computer you will need to install WSL or similar with an Ubuntu distribution. You
+will also need the commandline tools Mapshaper, geojson-precision and mapboxcli installed.
+Please set up a (free) Mapbox account before the session. (https://account.mapbox.com/auth/signup/)",
+"On MAY 31 • FRIDAY at 1:15pm – 2:30pm we will have the talk 'Extract all relations in Game of Thrones using AI and Python' with the speakers Speakers: Misha Gagrin, Lasse Edfast. The description of the talk is: AI-models are great tools to make unstructured data structured, and especially so if you know some basic
+Python. Those language models can be used to find and classify all arguments in a bunch of documents, make
+statistics of political debates or hunt for greenwashing in corporate reports. In this session we will extract all
+relations in the Game of Thrones series and plot it as a network map. Come along if you want to know who slept
+with whom! (Here is an example of how it can look like: https://lasseedfast.se/got/ ). After following the session,
+you will learn how to use AI in combination with Python to systematically extract pieces of information from a
+large amount of data.
+To follow along, participants need a basic understanding of Python.
+Install Ollama (ollama.com) and download one of the models if you want to follow along on your own laptop.",
+"On MAY 31 • FRIDAY at 1:15pm – 2:30pm we will have the talk 'How to fundraise - seen from the funder's chair' with the speakers Moderators: Peter Matjašič
+Speakers: Ebru Akgun, Anna Groenewegen, Eszter Szucs. The description of the talk is: Many independent public interest media outlets have to fundraise and navigate the waters of funders and
+donors. Fundraising is time-consuming and nerve-wrecking, for both start-ups and more established outlets: How
+do you approach a new funder? Should you try to build up a relationship before applying for funds? Is it okay to
+send all the funders the same report, even if they have different reporting standards? Will the funders try to
+influence our journalism?
+In this session you can meet three different kind of funders in the media sector, and they will answer all your
+questions, seen from the funder’s chair. You can voice your questions – and you can also ask the moderator to
+do it for you",
+"On MAY 31 • FRIDAY at 1:15pm – 2:30pm we will have the talk 'Investigating the past - lessons from the Nazi era' with the speakers Speakers: Astrid Viciano. The description of the talk is: We all understand that the way history is being told depends on who takes the lead in recounting the events. As
+investigative journalists, we usually research topics from the present or recent past: but what if we used our
+investigative skills to research historical topics? How can we know what really happened? In this session, you
+will learn how to investigate people and events from the past. Astrid Viciano will share her experience of
+researching the era of national socialism, and the race for the first nuclear weapon in Europe. She will explain
+how best to interview witnesses several decades after the events; how to find original archive material; and how
+to identify dubious sources. Join her for a hands-on session on how to bring history to life, in all its shades and
+nuances",
+"On MAY 31 • FRIDAY at 1:15pm – 2:30pm we will have the talk 'How to find people with minimal clues' with the speakers Speakers: Karina Shedrofsky. The description of the talk is: Tracking down elusive individuals is the bread and butter of OSINT work, but what can you do when armed only
+with a single photo or username? In this session, we’ll walk you through examples of how we cracked some of
+the most difficult cases (eg, tracking down an Iranian fugitive in the U.S. or the father of a posh Ukrainian living in
+Italy). We will unveil the power of combining image recognition, social media sleuthing, advanced Google
+searches, and exploring leaked data. You will discover some new techniques, and creative ways of thinking to
+raise your investigative game.",
