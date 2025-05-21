@@ -11,12 +11,6 @@ On this repo you will have three folders:
 [Demo site](https://talk-documents-ai-dataharvest24.vercel.app/)
 [Slides](https://slides-dataharvest2024-guqaromji-publico-data.vercel.app/)
 
-
-## 🚧 Things you should be aware of
-
-- To make everyone's life easier, I did something that you SHOULD never do in a real project: I put the database credentials on the code. This is a huge security flaw, but I did it to make it easier for you to run the code. Please, never do this in a real project.
-- Keep in mind that everytime you run something with MY KEY you are using my money. If you can afford it, please change it into a key of yours. If not, use it, but be aware that I can run out of money and I might not have money to get back to Portugal 🇵🇹
-
 ## Supabase snippet
 ```
 drop function if exists public.match_maker (
